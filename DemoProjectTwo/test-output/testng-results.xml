@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-06T00:24:11 IST" name="Default suite" finished-at="2025-08-06T00:24:15 IST" duration-ms="3850">
+    <groups>
+    </groups>
+    <test started-at="2025-08-06T00:24:11 IST" name="Default test" finished-at="2025-08-06T00:24:15 IST" duration-ms="3850">
+      <class name="demoprojecttwo.LoginTest">
+        <test-method is-config="true" signature="browserIntialization()[pri:0, instance:demoprojecttwo.LoginTest@f6efaab]" started-at="2025-08-06T00:24:11 IST" name="browserIntialization" finished-at="2025-08-06T00:24:15 IST" duration-ms="3469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialization -->
+        <test-method signature="loginWithNoCredentials()[pri:0, instance:demoprojecttwo.LoginTest@f6efaab]" started-at="2025-08-06T00:24:15 IST" name="loginWithNoCredentials" finished-at="2025-08-06T00:24:15 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithNoCredentials -->
+      </class> <!-- demoprojecttwo.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
